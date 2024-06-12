@@ -117,7 +117,7 @@
     <message>
         <location filename="../MainUI.ui" line="207"/>
         <source>&amp;View</source>
-        <translation>>&amp;查看</translation>
+        <translation>&amp;查看</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="238"/>
