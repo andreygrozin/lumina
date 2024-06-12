@@ -551,12 +551,12 @@
     <message>
         <location filename="../LPlugins.cpp" line="324"/>
         <source>Color to use for all visible text.</source>
-        <translation>用于所有可见文字的颜色。</translation>
+        <translation>用于所有可见文本的颜色。</translation>
     </message>
     <message>
         <location filename="../LPlugins.cpp" line="329"/>
         <source>Text (Disabled)</source>
-        <translation>文文 (已禁用)</translation>
+        <translation>文本(已禁用)</translation>
     </message>
     <message>
         <location filename="../LPlugins.cpp" line="330"/>
