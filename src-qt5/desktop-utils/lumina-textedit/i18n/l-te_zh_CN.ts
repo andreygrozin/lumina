@@ -122,7 +122,7 @@
     <message>
         <location filename="../MainUI.ui" line="238"/>
         <source>&amp;Edit</source>
-        <translation>>&amp;编辑</translation>
+        <translation>&amp;编辑</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="276"/>
