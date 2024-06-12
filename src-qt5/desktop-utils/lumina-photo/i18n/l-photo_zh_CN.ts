@@ -11,7 +11,7 @@
     <message>
         <location filename="../mainUI.ui" line="34"/>
         <source>&amp;File</source>
-        <translation>>&amp;文件</translation>
+        <translation>&amp;文件</translation>
     </message>
     <message>
         <location filename="../mainUI.ui" line="45"/>
