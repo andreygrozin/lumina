@@ -1318,7 +1318,7 @@ New Location: %2</source>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="618"/>
         <source>Multimedia</source>
-        <translation、>多媒体</translation>
+        <translation>多媒体</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="619"/>
@@ -1338,7 +1338,7 @@ New Location: %2</source>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="622"/>
         <source>Graphics</source>
-        <translation图像></translation>
+        <translation>图像</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="623"/>
