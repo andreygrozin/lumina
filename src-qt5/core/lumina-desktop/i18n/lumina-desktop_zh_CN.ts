@@ -1205,7 +1205,7 @@
     <message>
         <location filename="../desktop-plugins/audioplayer/PlayerWidget.cpp" line="161"/>
         <source>Multimedia URL</source>
-        <translation>多媒体键链接</translation>
+        <translation>多媒体链接</translation>
     </message>
 </context>
 <context>
