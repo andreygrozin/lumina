@@ -1877,7 +1877,7 @@
     </message>
     <message>
         <location filename="../pages/page_session_options.cpp" line="262"/>
-        <source>%1:(localized)</source>
+        <source>%1: Day as abbreviation (localized)</source>
         <translation>%1: 缩略的星期几（本地化的）</translation>
     </message>
     <message>
