@@ -35,7 +35,7 @@
         <location filename="../MainUI.cpp" line="69"/>
         <location filename="../MainUI.cpp" line="331"/>
         <source>File</source>
-        <translation>文科</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="../MainUI.ui" line="125"/>
@@ -171,7 +171,7 @@
         <location filename="../MainUI.cpp" line="69"/>
         <location filename="../MainUI.cpp" line="331"/>
         <source>MimeType</source>
-        <translation>术语类型</translation>
+        <translation>默认程序</translation>
     </message>
     <message>
         <location filename="../MainUI.cpp" line="69"/>
@@ -366,12 +366,12 @@
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="620"/>
         <source>Education</source>
-        <translation教育></translation>
+        <translation>教育</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="621"/>
         <source>Games</source>
-        <translation游戏></translation>
+        <translation>游戏</translation>
     </message>
     <message>
         <location filename="../../../core/libLumina/LuminaXDG.cpp" line="622"/>
@@ -504,7 +504,7 @@
     <message>
         <location filename="../imgDialog.cpp" line="110"/>
         <source>Warning: This will leave the USB device in an inconsistent state</source>
-        <translation>警告。这将使USB设备处于不一致的状态</translation>
+        <translation>警告：这将使 USB 设备处于不一致状态</translation>
     </message>
     <message>
         <location filename="../imgDialog.cpp" line="110"/>
