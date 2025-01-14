@@ -4,6 +4,7 @@ project(lumina-core-utils VERSION 1.6.2 LANGUAGES C CXX) # TODO: inherit this fr
 # CMake Settings (policies to do AUTOMOC as much as possible)
 cmake_policy(SET CMP0057 NEW)
 cmake_policy(SET CMP0071 NEW)
+cmake_policy(SET CMP0177 NEW)
 include(GNUInstallDirs)
 
 # C++ Settings (pretend everything is modern)
