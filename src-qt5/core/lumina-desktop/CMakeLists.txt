@@ -123,8 +123,9 @@ target_sources(
 
 add_custom_command(	
 	TARGET lumina-desktop
+	POST_BUILD
 	COMMAND gzip -c ${CMAKE_CURRENT_SOURCE_DIR}/lumina-desktop.1 > ${CMAKE_CURRENT_BINARY_DIR}/lumina-desktop.1.gz
-	OUTPUTS ${CMAKE_CURRENT_BINARY_DIR}/lumina-desktop.1.gz
+	BYPRODUCTS ${CMAKE_CURRENT_BINARY_DIR}/lumina-desktop.1.gz
 )
 
 # Picks up many Qt libraries from libLumina's PUBLIC settings
