@@ -2,8 +2,7 @@
 Type=Link
 URL=https://t.me/luminadesktop
 Icon=Lumina-DE
-Categories=System;
-OnlyShowIn=Lumina;
+OnlyShowIn=X-Lumina;
 Name=Community Support
 Name[pt]=Suporte da comunidade
 Name[sv]=Support från gemenskapen
