@@ -9,3 +9,4 @@ target_link_libraries(
     PRIVATE libLumina Qt5::Core Qt5::Widgets Qt5::X11Extras
 )
 install(TARGETS start-lumina-desktop)
+install(PROGRAMS lumina-session.sh DESTINATION /etc/X11/Sessions RENAME lumina)
