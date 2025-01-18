@@ -6,7 +6,7 @@
 # The plugins, as well as sources in this directory, expect to
 # include from this directory, from src-screensaver/, but **also* from
 # the top-level (outside of lumina-core entirely!) src-cpp.
-set(TOPLEVEL_SRC_CPP ${CMAKE_SOURCE_DIR}/../src-cpp/)
+set(TOPLEVEL_SRC_CPP ${CMAKE_SOURCE_DIR}/src-cpp/)
 include_directories(
     lumina-desktop
     PRIVATE
