@@ -110,3 +110,4 @@ install(
 	FILES ${CMAKE_CURRENT_BINARY_DIR}/lumina-fm.1.gz
 	DESTINATION ${CMAKE_INSTALL_DATADIR}/man/man1
 )
+install(FILES Insight-FileManager.svg DESTINATION ${CMAKE_INSTALL_DATADIR}/icons/hicolor/scalable/apps)
