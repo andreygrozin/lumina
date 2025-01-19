@@ -101,3 +101,4 @@ install(
 	FILES ${CMAKE_CURRENT_BINARY_DIR}/lumina-textedit.1.gz
 	DESTINATION ${CMAKE_INSTALL_DATADIR}/man/man1
 )
+install(DIRECTORY syntax_rules DESTINATION ${CMAKE_INSTALL_DATADIR}/lumina-desktop/)
